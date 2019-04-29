@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://community.rti.com/schema/5.3.1/rti_dds_profiles.xsd" version="5.3.1">
+    <types>
+      <struct name="NewStruct2">
+        <member name="id2" type="long"/>
+      </struct>
+    </types>
+
+</dds>
