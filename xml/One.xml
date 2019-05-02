@@ -3,6 +3,7 @@
     <types>
       <struct name="NewStruct1">
         <member name="id1" type="long"/>
+        <member name="NewMember1" type="char8"/>
       </struct>
     </types>
 
